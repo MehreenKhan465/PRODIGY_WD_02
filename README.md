@@ -28,8 +28,7 @@ README.md<br>
 🔧 How to Run
 
 Clone the repository
-git clone https://github.com/yourusername/stopwatch-app.git
-
+git clone https://github.com/MehreenKhan465/PRODIGY_WD_02.git
 Open the project folder
 
 Open index.html in your browser<br>
